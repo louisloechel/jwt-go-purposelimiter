@@ -1,4 +1,4 @@
-module github.com/louisloechel/purposelimiter
+module github.com/louisloechel/jwt-go-purposelimiter
 
 go 1.20
 
